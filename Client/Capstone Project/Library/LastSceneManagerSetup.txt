@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Scenes/(\uD559\uC2B5, \uB3C4\uC804) \uC120\uD0DD/ChallengeChoice.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
